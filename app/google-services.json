@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175627021045",
+    "firebase_url": "https://retrieve-posts-firebase-default-rtdb.firebaseio.com",
+    "project_id": "retrieve-posts-firebase",
+    "storage_bucket": "retrieve-posts-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175627021045:android:34ceb7ca2ce4b3953c33bc",
+        "android_client_info": {
+          "package_name": "com.example.retrieve_posta_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175627021045-1118fetddv8fh6pikhp4hs67dk223rii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFmU1kHoGIquX5uhJxFVw05uKawNgd_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175627021045-1118fetddv8fh6pikhp4hs67dk223rii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
